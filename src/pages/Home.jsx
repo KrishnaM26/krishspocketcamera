@@ -1,5 +1,6 @@
 import Header from "../components/Header"
 import PhotoCard from "../components/PhotoCard"
+import Footer from "../components/Footer"
 //import "../css/Home.css"
 
 function Home(){
@@ -8,8 +9,7 @@ function Home(){
         <div className="home-container">
             <Header />
             <PhotoCard />
-            <br />
-           {/* <Footer />*/}
+            <Footer />
         </div>
 
     )

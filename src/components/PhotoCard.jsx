@@ -1,5 +1,6 @@
 import "../css/PhotoCard.css"
-import data from "../photos.json"
+import data  from "../photos.json"
+
 
 function PhotoCard(){
     
