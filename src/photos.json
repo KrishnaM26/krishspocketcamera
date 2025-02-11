@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "url": "public/photos/IMAG0056.JPG",
+        "url": "public/images/IMAG0056.JPG",
         "name": "Me",
         "year": "2022",
         "category": "B/W FILM"
     },
     {
         "id": 2,
-        "url": "public/photos/IMAG0063.JPG",
+        "url": "public/images/IMAG0063.JPG",
         "name": "Plastic Tree",
         "year": "2022",
         "category": "B/W FILM"
