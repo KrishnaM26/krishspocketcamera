@@ -14,6 +14,16 @@
     font-size: 250%;
 }
 
+a {
+    font-weight: 500;
+    color:blue;
+    text-decoration: inherit;
+  }
+  a:hover {
+    color:rgba(0, 0, 255, 0.526);
+   
+  }
+
 /*
 .header-year{
     text-align: right;

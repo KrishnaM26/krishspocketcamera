@@ -34,15 +34,7 @@
     flex-direction: column;
   }
   
-  a {
-    font-weight: 500;
-    color:blue;
-    text-decoration: inherit;
-  }
-  a:hover {
-    color:rgba(0, 0, 255, 0.526);
-   
-  }
+
   
   h1 {
     font-size: 3.2em;
