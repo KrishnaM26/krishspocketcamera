@@ -99,6 +99,11 @@
        /* border: 5px purple solid;*/
     }
 
+    .photo-label-container{
+        width: 90vw;
+        /*border: 5px black solid;*/
+    }
+
     .photo-container{
         padding: 12% 0% 0% 0%;
         /*border: 5px red solid;*/
