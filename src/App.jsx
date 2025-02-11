@@ -6,7 +6,7 @@ function App(){
     <div className="main-content">
         <Home />
     </div>
-  );
+  )
 
 }
 
