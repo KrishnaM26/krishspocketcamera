@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "url": "public/images/IMAG0056.JPG",
+        "url": "./krishspocketcamera/images/IMAG0056.JPG",
         "name": "Me",
         "year": "2022",
         "category": "B/W FILM"
     },
     {
         "id": 2,
-        "url": "public/images/IMAG0063.JPG",
+        "url": "./krishspocketcamera/images/IMAG0063.JPG",
         "name": "Plastic Tree",
         "year": "2022",
         "category": "B/W FILM"
@@ -16,70 +16,70 @@
     },
     {
         "id": 3,
-        "url": "public/photos/IMAG0073.JPG",
+        "url": "./krishspocketcamera/images/IMAG0073.JPG",
         "name": "Business Man",
         "year": "2022",
         "category": "B/W FILM"
     },
     {
         "id": 4,
-        "url": "public/photos/IMAG0062.JPG",
+        "url": "./krishspocketcamera/images/IMAG0062.JPG",
         "name": "Metro",
         "year": "2022",
         "category": "B/W FILM"
     },
     {
         "id": 5,
-        "url": "public/photos/00EFC95C-371B-4033-8818-1CDB622DD35D.JPG",
+        "url": "./krishspocketcamera/images/00EFC95C-371B-4033-8818-1CDB622DD35D.JPG",
         "name": "Untitled",
         "year": "2020",
         "category": "PHONE"
     },
     {
         "id": 6,
-        "url": "public/photos/IMG_2559.JPG",
+        "url": "./krishspocketcamera/images/IMG_2559.JPG",
         "name": "Treee",
         "year": "2020",
         "category": "PHONE"
     },
     {
         "id": 7,
-        "url": "public/photos/C3424D75-D565-42DD-9221-A98B213B5D90.JPG",
+        "url": "./krishspocketcamera/images/C3424D75-D565-42DD-9221-A98B213B5D90.JPG",
         "name": "Angles",
         "year": "2020",
         "category": "PHONE"  
     },
     {
         "id": 8,
-        "url": "public/photos/IMG_8246.jpg",
+        "url": "./krishspocketcamera/images/IMG_8246.jpg",
         "name": "Untitled",
         "year": "2020",
         "category": "PHONE"  
     },
     {
         "id": 9,
-        "url": "public/photos/IMG_7226.jpg",
+        "url": "./krishspocketcamera/images/IMG_7226.jpg",
         "name": "Joshua Tree",
         "year": "2020",
         "category": "PHONE"  
     },
     {
         "id": 10,
-        "url": "public/photos/IMG_8341.jpg",
+        "url": "./krishspocketcamera/images/IMG_8341.jpg",
         "name": "Band Baaji",
         "year": "2020",
         "category": "PHONE"  
     },
     {
         "id": 11,
-        "url": "public/photos/IMG_8144.jpg",
+        "url": "./krishspocketcamera/images/IMG_8144.JPG",
         "name": "LUV",
         "year": "2020",
         "category": "PHONE"  
     },
     {
         "id": 12,
-        "url": "public/photos/IMG_8069.jpg",
+        "url": "./krishspocketcamera/images/IMG_8069.jpg",
         "name": "Taj Mahal",
         "year": "2020",
         "category": "PHONE"  
