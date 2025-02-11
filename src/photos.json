@@ -51,37 +51,37 @@
     },
     {
         "id": 8,
-        "url": "./krishspocketcamera/images/IMG_8246.jpg",
-        "name": "Untitled",
-        "year": "2020",
+        "url": "./krishspocketcamera/images/IMG_7226.JPG",
+        "name": "Joshua Tree",
+        "year": "2024",
         "category": "PHONE"  
     },
     {
         "id": 9,
-        "url": "./krishspocketcamera/images/IMG_7226.jpg",
-        "name": "Joshua Tree",
-        "year": "2020",
+        "url": "./krishspocketcamera/images/IMG_8341.jpg",
+        "name": "Band Baaji",
+        "year": "2024",
         "category": "PHONE"  
     },
     {
         "id": 10,
-        "url": "./krishspocketcamera/images/IMG_8341.jpg",
-        "name": "Band Baaji",
-        "year": "2020",
+        "url": "./krishspocketcamera/images/IMG_8246.jpg",
+        "name": "Untitled",
+        "year": "2024",
         "category": "PHONE"  
     },
     {
         "id": 11,
         "url": "./krishspocketcamera/images/IMG_8144.JPG",
         "name": "LUV",
-        "year": "2020",
+        "year": "2024",
         "category": "PHONE"  
     },
     {
         "id": 12,
         "url": "./krishspocketcamera/images/IMG_8069.jpg",
         "name": "Taj Mahal",
-        "year": "2020",
+        "year": "2024",
         "category": "PHONE"  
     }
     
