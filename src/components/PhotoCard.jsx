@@ -16,7 +16,7 @@ function PhotoCard(){
                 <p className="photo-year"><em>{photo.year}</em></p>
             </div>
         </div>
-        ))};
+        ))}
 
     </div>
     )

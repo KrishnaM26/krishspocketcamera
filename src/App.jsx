@@ -1,4 +1,4 @@
-import Home from "./pages/Home";
+import Home from "./pages/Home"
 //import "./css/App.css" 
 
 function App(){
@@ -9,7 +9,5 @@ function App(){
   )
 
 }
-
-
 
 export default App

@@ -1,5 +1,4 @@
 .header-container{
-   /* border: 5px black solid;*/
     position: fixed;
     width: 100%;
     display: flex;
@@ -23,18 +22,6 @@ a {
     color:rgba(0, 0, 255, 0.526);
    
   }
-
-/*
-.header-year{
-    text-align: right;
-    color: black;
-    font-size: 250%;
-    margin: 2rem, 5rem;
-
-}
-
-*/
-
 
 @media only screen and (max-width: 600px) {
     .header-title h1{
